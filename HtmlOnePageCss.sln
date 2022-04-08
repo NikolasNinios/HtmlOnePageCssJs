@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HtmlOnePageCss", ".", "{F4A95D23-4930-4827-8A4E-2A8E9BBA4433}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63967"
+		Debug.AspNetCompiler.PhysicalPath = "..\HtmlOnePageCss\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63967\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63967"
+		Release.AspNetCompiler.PhysicalPath = "..\HtmlOnePageCss\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63967\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63967"
+		SlnRelativePath = "..\HtmlOnePageCss\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A95D23-4930-4827-8A4E-2A8E9BBA4433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A95D23-4930-4827-8A4E-2A8E9BBA4433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71084B91-6692-48CE-ACEC-65352C1FAB33}
+	EndGlobalSection
+EndGlobal
